@@ -7,6 +7,18 @@ app_license = "mit"
 
 # Apps
 # ------------------
+fixtures = [
+    {"doctype": "Custom Field"},
+    {"doctype": "Property Setter"}
+]
+
+# Installation
+# ------------
+after_install = "mini_system.install.set_workspace_visibility"
+
+# Migration
+# ------------
+after_migrate = "mini_system.install.set_workspace_visibility"
 
 # required_apps = []
 

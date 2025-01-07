@@ -1,0 +1,518 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"IQIO0dwutc\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0648\u0627\u0645\u0631 \u0634\u0631\u0627\u0621 \u0644\u0645 \u062a\u0641\u0648\u062a\u0631\",\"col\":3}},{\"id\":\"BwCJ-WSFss\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u062c\u0645\u0627\u0644\u064a \u0641\u0648\u0627\u062a\u064a\u0631 \u0644\u0645 \u062a\u0633\u062f\u062f\",\"col\":3}},{\"id\":\"ITwf6B-_hB\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u062f\u0641\u0648\u0639\u0627\u062a\",\"col\":3}},{\"id\":\"41nFkMGbQR\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a\",\"col\":3}},{\"id\":\"pzJT1ID_YX\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0648\u0627\u0645\u0631 \u0628\u064a\u0639 \u0644\u0645 \u062a\u0641\u0648\u062a\u0631\",\"col\":3}},{\"id\":\"4XfIuKVEnW\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u062c\u0645\u0627\u0644\u064a \u0641\u0648\u0627\u062a\u064a\u0631 \u0644\u0645 \u062a\u062d\u0635\u0644 \",\"col\":3}},{\"id\":\"sUPKslfC_b\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u062a\u062d\u0635\u064a\u0644\u0627\u062a \",\"col\":3}},{\"id\":\"KAxRtc8M8s\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u062c\u0645\u0627\u0644\u064a \u0645\u0628\u064a\u0639\u0627\u062a\",\"col\":3}},{\"id\":\"M1rzTrKca8\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b></b></span>\",\"col\":12}},{\"id\":\"TSkmgaqAoS\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"JiuSi0ubOg\",\"type\":\"card\",\"data\":{\"card_name\":\"Accounting - \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a\",\"col\":4}},{\"id\":\"N61oiXpuwK\",\"type\":\"card\",\"data\":{\"card_name\":\"Sales- \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\",\"col\":4}},{\"id\":\"6J0CVl1mPo\",\"type\":\"card\",\"data\":{\"card_name\":\"Purchasing - \u0645\u0634\u062a\u0631\u064a\u0627\u062a\",\"col\":4}},{\"id\":\"ji2Jlm3Q8i\",\"type\":\"card\",\"data\":{\"card_name\":\"Stock -\u0627\u0644\u0645\u062e\u0627\u0632\u0646\",\"col\":4}}]",
+ "creation": "2020-01-23 13:46:38.833076",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "getting-started",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Home",
+ "links": [
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Chart of Accounts",
+   "link_count": 0,
+   "link_to": "Account",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Company",
+   "link_count": 0,
+   "link_to": "Company",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Customer",
+   "link_count": 0,
+   "link_to": "Customer",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Supplier",
+   "link_count": 0,
+   "link_to": "Supplier",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Item",
+   "link_count": 0,
+   "link_to": "Item",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Warehouse",
+   "link_count": 0,
+   "link_to": "Warehouse",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Brand",
+   "link_count": 0,
+   "link_to": "Brand",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Unit of Measure (UOM)",
+   "link_count": 0,
+   "link_to": "UOM",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Stock Reconciliation",
+   "link_count": 0,
+   "link_to": "Stock Reconciliation",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Lead",
+   "link_count": 0,
+   "link_to": "Lead",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Customer Group",
+   "link_count": 0,
+   "link_to": "Customer Group",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Territory",
+   "link_count": 0,
+   "link_to": "Territory",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Import Data",
+   "link_count": 0,
+   "link_to": "Data Import",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Opening Invoice Creation Tool",
+   "link_count": 0,
+   "link_to": "Opening Invoice Creation Tool",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Chart of Accounts Importer",
+   "link_count": 0,
+   "link_to": "Chart of Accounts Importer",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Letter Head",
+   "link_count": 0,
+   "link_to": "Letter Head",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Email Account",
+   "link_count": 0,
+   "link_to": "Email Account",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Purchasing - \u0645\u0634\u062a\u0631\u064a\u0627\u062a",
+   "link_count": 5,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u0648\u0631\u062f",
+   "link_count": 0,
+   "link_to": "Supplier",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0621",
+   "link_count": 0,
+   "link_to": "Purchase Order",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0641\u0627\u062a\u0648\u0631\u0629 \u0645\u0634\u062a\u0631\u064a\u0627\u062a",
+   "link_count": 0,
+   "link_to": "Purchase Invoice",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0633\u062f\u0627\u062f / \u062f\u0641\u0639",
+   "link_count": 0,
+   "link_to": "Payment Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0643\u0634\u0641 \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0648\u0631\u062f ",
+   "link_count": 0,
+   "link_to": "Accounts Payable Summary",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Purchase Invoice",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Sales- \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a",
+   "link_count": 5,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+   "link_count": 0,
+   "link_to": "Customer",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0645\u0631 \u0628\u064a\u0639 ",
+   "link_count": 0,
+   "link_to": "Sales Order",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0641\u0627\u062a\u0648\u0631\u0629 \u0645\u0628\u064a\u0639\u0627\u062a",
+   "link_count": 0,
+   "link_to": "Sales Invoice",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u062a\u062d\u0635\u064a\u0644",
+   "link_count": 0,
+   "link_to": "Payment Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0643\u0634\u0641 \u062d\u0633\u0627\u0628 \u0627\u0644\u0639\u0645\u064a\u0644",
+   "link_count": 0,
+   "link_to": "Accounts Receivable Summary",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Sales Invoice",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Accounting - \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a",
+   "link_count": 5,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0642\u064a\u0648\u062f \u0627\u0644\u064a\u0648\u0645\u064a\u0629 ",
+   "link_count": 0,
+   "link_to": "Journal Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0627\u0633\u062a\u0627\u0630 \u0627\u0644\u0639\u0627\u0645 ",
+   "link_count": 0,
+   "link_to": "General Ledger",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "GL Entry",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u064a\u0632\u0627\u0646 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0647",
+   "link_count": 0,
+   "link_to": "Trial Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "GL Entry",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0627\u0631\u0628\u0627\u062d \u0648 \u0627\u0644\u062e\u0633\u0627\u064a\u0631",
+   "link_count": 0,
+   "link_to": "Profit and Loss Statement",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "GL Entry",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0635\u0627\u0641\u064a \u0648 \u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0631\u0628\u062d",
+   "link_count": 0,
+   "link_to": "Gross and Net Profit Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "GL Entry",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Stock -\u0627\u0644\u0645\u062e\u0627\u0632\u0646",
+   "link_count": 7,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0627\u0635\u0646\u0627\u0641",
+   "link_count": 0,
+   "link_to": "Item",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639\u0627\u062a",
+   "link_count": 0,
+   "link_to": "Warehouse",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0627\u0644\u0627\u0635\u0646\u0627\u0641",
+   "link_count": 0,
+   "link_to": "Item Group",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0642\u064a\u0627\u0633",
+   "link_count": 0,
+   "link_to": "UOM",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u062c\u0631\u062f \u0627\u0644\u0645\u062e\u0632\u0646\u064a",
+   "link_count": 0,
+   "link_to": "Stock Reconciliation",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062d\u0631\u0643\u0627\u062a \u0645\u062e\u0632\u0646\u064a\u0629",
+   "link_count": 0,
+   "link_to": "Stock Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0631\u0635\u064a\u062f \u0627\u0644\u0645\u062e\u0632\u0646",
+   "link_count": 0,
+   "link_to": "Stock Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Stock Ledger Entry",
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-01-07 14:23:58.524436",
+ "modified_by": "Administrator",
+ "module": "Mini System",
+ "name": "Home",
+ "number_cards": [
+  {
+   "label": "\u0627\u0648\u0627\u0645\u0631 \u0634\u0631\u0627\u0621 \u0644\u0645 \u062a\u0641\u0648\u062a\u0631",
+   "number_card_name": "Purchase Orders to Bill"
+  },
+  {
+   "label": "\u0627\u0648\u0627\u0645\u0631 \u0628\u064a\u0639 \u0644\u0645 \u062a\u0641\u0648\u062a\u0631",
+   "number_card_name": "Sales Orders to Bill"
+  },
+  {
+   "label": "\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u062a\u062d\u0635\u064a\u0644\u0627\u062a ",
+   "number_card_name": "Total Incoming Payment"
+  },
+  {
+   "label": "\u0627\u062c\u0645\u0627\u0644\u064a \u0641\u0648\u0627\u062a\u064a\u0631 \u0644\u0645 \u062a\u0633\u062f\u062f",
+   "number_card_name": "Total Incoming Bills"
+  },
+  {
+   "label": "\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a",
+   "number_card_name": "Annual Purchase"
+  },
+  {
+   "label": "\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u062f\u0641\u0648\u0639\u0627\u062a",
+   "number_card_name": "Total Outgoing Payment"
+  },
+  {
+   "label": "\u0627\u062c\u0645\u0627\u0644\u064a \u0641\u0648\u0627\u062a\u064a\u0631 \u0644\u0645 \u062a\u062d\u0635\u0644 ",
+   "number_card_name": "Total Outgoing Bills"
+  },
+  {
+   "label": "\u0627\u062c\u0645\u0627\u0644\u064a \u0645\u0628\u064a\u0639\u0627\u062a",
+   "number_card_name": "Annual Sales"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [],
+ "title": "Home"
+}
