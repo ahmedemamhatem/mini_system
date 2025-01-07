@@ -9,6 +9,7 @@ app_license = "mit"
 # ------------------
 fixtures = [
     {"doctype": "Custom Field"},
+    {"doctype": "Translation"},
     {"doctype": "Property Setter"}
 ]
 
