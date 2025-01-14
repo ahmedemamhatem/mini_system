@@ -8,7 +8,7 @@ def set_workspace_visibility():
         # Fetch all workspaces except "Home" and "Users"
         workspaces = frappe.get_all(
             "Workspace",
-            filters={"name": ["not in", ["Home", "Users", "Setting]]},
+            filters={"name": ["not in", ["Home", "Users", "Setting"]]},
             fields=["name", "is_hidden"]
         )
         
