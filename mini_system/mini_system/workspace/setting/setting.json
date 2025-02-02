@@ -1,0 +1,66 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"lpEh5NReHu\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Setting</span>\",\"col\":12}},{\"id\":\"cu9qCNso20\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Company\",\"col\":3}},{\"id\":\"kPYka_O0GZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"System Settings\",\"col\":3}},{\"id\":\"tKtt6f0ff5\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Buying Settings\",\"col\":3}},{\"id\":\"HUVJYrgBDC\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Selling Settings\",\"col\":3}},{\"id\":\"T3ny_idGUf\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Stock Settings\",\"col\":3}}]",
+ "creation": "2025-01-14 23:30:54.973367",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "setting",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Setting",
+ "links": [],
+ "modified": "2025-02-02 10:50:19.125456",
+ "modified_by": "Administrator",
+ "module": "Mini System",
+ "name": "Setting",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 28.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "System Settings",
+   "link_to": "System Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Company",
+   "link_to": "Company",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Buying Settings",
+   "link_to": "Buying Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Selling Settings",
+   "link_to": "Selling Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Stock Settings",
+   "link_to": "Stock Settings",
+   "type": "DocType"
+  }
+ ],
+ "title": "Setting"
+}
